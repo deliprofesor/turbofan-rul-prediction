@@ -11,6 +11,8 @@ The dataset provides run-to-failure data for multiple engines under different op
 
 ## Dataset
 
+<img width="823" height="555" alt="image" src="https://github.com/user-attachments/assets/922c64e1-fc7d-4cee-83cf-cf0773a10e5d" />
+
 **Source:** [NASA Prognostics Data Repository](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)  
 **Files Included:**
 - `train_FD001.txt` – Training data (FD001 scenario)
